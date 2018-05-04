@@ -1,0 +1,14 @@
+1. list all active survey
+
+2. vew a perticular survey
+title
+status
+description
+questions{
+    string :
+    options : []
+}
+
+3. take a survey
+
+4. view users survey result.
